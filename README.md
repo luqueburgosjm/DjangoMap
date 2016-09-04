@@ -1,0 +1,2 @@
+# DjangoMap
+Testing purpose
